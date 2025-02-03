@@ -1,0 +1,13 @@
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\bin\x64\Debug\ProxyDllMaker.exe.config
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\bin\x64\Debug\ProxyDllMaker.exe
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\bin\x64\Debug\ProxyDllMaker.pdb
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.csproj.AssemblyReference.cache
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.Form1.resources
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.FunctionDialog.resources
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.OptionForm.resources
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.Properties.Resources.resources
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.UnDecorator.resources
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.csproj.GenerateResource.cache
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.csproj.CoreCompileInputs.cache
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.exe
+C:\Users\Kelp\Documents\GitHub\ProxyDllMaker\ProxyDllMaker\obj\x64\Debug\ProxyDllMaker.pdb

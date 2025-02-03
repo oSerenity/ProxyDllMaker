@@ -1,0 +1,4 @@
+suffix=_org
+prefix=mfplat.
+empty=EmptyFunction_
+symmethod=0
