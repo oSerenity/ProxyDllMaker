@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\",
+  "WorkspaceRootPath": "C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|c:\\users\\kelp\\documents\\github\\proxydllmaker\\proxydllmaker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|solutionrelative:proxydllmaker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|c:\\users\\kelp\\documents\\github\\proxydllmaker\\proxydllmaker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\proxydllmaker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|solutionrelative:proxydllmaker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|c:\\users\\kelp\\documents\\github\\proxydllmaker\\proxydllmaker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\proxydllmaker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|solutionrelative:proxydllmaker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kelp\\AppData\\Local\\Temp\\.vsdbgsrc\\5564083c7697b1104f620a25ea74444ff82ab10accd350843e81034df21f4531\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\proxydllmaker\\functiondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\proxydllmaker\\functiondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|solutionrelative:proxydllmaker\\functiondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\proxydllmaker\\undecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\proxydllmaker\\undecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3120A1EB-F52B-460E-87FB-DBAF640FFBDF}|ProxyDllMaker\\ProxyDllMaker.csproj|solutionrelative:proxydllmaker\\undecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -39,22 +39,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "ProxyDllMaker\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.Designer.cs",
               "RelativeToolTip": "ProxyDllMaker\\Form1.Designer.cs",
               "ViewState": "AgIAAHEBAAAAAAAAAAAcwH0BAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T03:36:11.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T03:36:11.631Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Kelp\\AppData\\Local\\Temp\\.vsdbgsrc\\5564083c7697b1104f620a25ea74444ff82ab10accd350843e81034df21f4531\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kelp\\AppData\\Local\\Temp\\.vsdbgsrc\\5564083c7697b1104f620a25ea74444ff82ab10accd350843e81034df21f4531\\Form1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5564083c7697b1104f620a25ea74444ff82ab10accd350843e81034df21f4531\\Form1.cs",
-              "ToolTip": "C:\\Users\\Kelp\\AppData\\Local\\Temp\\.vsdbgsrc\\5564083c7697b1104f620a25ea74444ff82ab10accd350843e81034df21f4531\\Form1.cs [Read Only]",
+              "ToolTip": "C:\\Users\\kelp\\AppData\\Local\\Temp\\.vsdbgsrc\\5564083c7697b1104f620a25ea74444ff82ab10accd350843e81034df21f4531\\Form1.cs [Read Only]",
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5564083c7697b1104f620a25ea74444ff82ab10accd350843e81034df21f4531\\Form1.cs [Read Only]",
               "ViewState": "AgIAAH0AAAAAAAAAAAAjwIsAAAAAAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.cs",
               "RelativeDocumentMoniker": "ProxyDllMaker\\Form1.cs",
-              "ToolTip": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.cs",
+              "ToolTip": "C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.cs",
               "RelativeToolTip": "ProxyDllMaker\\Form1.cs",
               "ViewState": "AgIAADIBAAAAAAAAAAAkwDoBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,31 +77,29 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.cs",
               "RelativeDocumentMoniker": "ProxyDllMaker\\Form1.cs",
               "ToolTip": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\Form1.cs [Design]",
               "RelativeToolTip": "ProxyDllMaker\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T01:37:31.923Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-03T01:37:31.923Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FunctionDialog.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\FunctionDialog.cs",
+              "DocumentMoniker": "C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\FunctionDialog.cs",
               "RelativeDocumentMoniker": "ProxyDllMaker\\FunctionDialog.cs",
               "ToolTip": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\FunctionDialog.cs [Design]",
               "RelativeToolTip": "ProxyDllMaker\\FunctionDialog.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T01:37:23.612Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-03T01:37:23.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UnDecorator.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\UnDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\UnDecorator.cs",
               "RelativeDocumentMoniker": "ProxyDllMaker\\UnDecorator.cs",
               "ToolTip": "C:\\Users\\Kelp\\Documents\\GitHub\\ProxyDllMaker\\ProxyDllMaker\\UnDecorator.cs [Design]",
               "RelativeToolTip": "ProxyDllMaker\\UnDecorator.cs [Design]",
